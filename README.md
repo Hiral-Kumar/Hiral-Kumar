@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 # 💻 Tech Stack:
 ### 🚀 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,java,c,html,css,tensorflow,git,github,vscode)](https://skillicons.dev)
-# 📊 GitHub Stats:
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiral-Kumar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=Hiral-Kumar&icon=0&color=0)](https://visitcount.itsvg.in)
