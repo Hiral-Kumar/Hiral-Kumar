@@ -81,58 +81,71 @@ and think about the cosmos a little too often.
 
 ---
 
-<h2 align="center">🛰️ GITHUB TELEMETRY</h2>
+---
+
+<h2 align="center">⚙️ ENGINEERING CONSOLE</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Hiral-Kumar&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"
-    alt="GitHub statistics"
-    width="48%"
-  />
-  <img
-    src="https://streak-stats.demolab.com/?user=Hiral-Kumar&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
-    width="48%"
-  />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/FOCUS-AI%2FML-FFB86C?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/BUILDING-AWS%20WORKFLOWS-9B8AFB?style=for-the-badge&labelColor=0D1117" />
 </p>
 
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="220">
+      <b>🧠 CORE SYSTEM</b><br><br>
+      Python for ML<br>
+      DSA in Java<br>
+      Git & GitHub
+    </td>
+    <td align="center" width="220">
+      <b>🛰️ CURRENT ORBIT</b><br><br>
+      AWS AI/ML<br>
+      Data pipelines<br>
+      Model logic
+    </td>
+    <td align="center" width="220">
+      <b>🔭 LONG-TERM MISSION</b><br><br>
+      Intelligent systems<br>
+      Real-world impact<br>
+      Continuous learning
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiral-Kumar&layout=compact&hide_border=true&theme=tokyonight"
-    alt="Most used programming languages"
-    width="40%"
-  />
+  <i>“Understand the system behind the solution.”</i>
 </p>
 
 ---
 
-<h2 align="center">🔭 CURRENT ORBIT</h2>
+<h2 align="center">🌌 BUILD LOG</h2>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1400&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+ML+foundations;Exploring+AWS+AI%2FML;Practicing+DSA+in+Java;Turning+ideas+into+working+systems"
-    alt="Current learning focus"
-  />
+  <b>Currently learning:</b><br>
+  NumPy · Pandas · Scikit-learn · DSA · AWS AI/ML Services
 </p>
 
 <p align="center">
-  <b>Mission:</b> Become the kind of engineer who understands the system behind the solution.
-</p>
-
----
-
-<h2 align="center">📡 ACTIVITY SIGNAL</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Hiral-Kumar&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub activity graph"
-    width="96%"
-  />
+  <b>Currently exploring:</b><br>
+  Predictive maintenance · Digital twins · LLMs · RAG · Cloud deployment
 </p>
 
 ---
 
+<h2 align="center">📡 TRANSMISSION</h2>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:111827,100:00E5FF&height=100&section=footer" />
+  Building quietly.<br>
+  Learning aggressively.<br>
+  Shipping intelligently.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:111827,100:00E5FF&height=110&section=footer" alt="Cinematic footer" />
 </p>
