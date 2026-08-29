@@ -65,48 +65,74 @@ and think about the cosmos a little too often.
 
 ---
 
-<h2>📊 Mission Telemetry</h2>
+---
+
+<h2 align="center">⚙️ SYSTEM STATUS</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/FOCUS-AI%2FML-FFB86C?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/BASE-DELHI%2C%20INDIA-9B8AFB?style=for-the-badge&labelColor=0D1117" />
+</p>
+
+<p align="center">
+  <i>Learning deeply. Building intelligently. Shipping consistently.</i>
+</p>
+
+---
+
+<h2 align="center">🛰️ GITHUB TELEMETRY</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Hiral-Kumar&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=00E5FF&icon_color=FFB86C&text_color=C9D1D9"
-    alt="Hiral Kumar's GitHub statistics"
-    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Hiral-Kumar&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"
+    alt="GitHub statistics"
+    width="48%"
   />
   <img
-    src="https://github-readme-streak-stats.demolab.com/?user=Hiral-Kumar&hide_border=true&theme=tokyonight&background=0D1117&ring=00E5FF&fire=FF6B6B&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E"
-    alt="Hiral Kumar's GitHub streak"
-    width="49%"
+    src="https://streak-stats.demolab.com/?user=Hiral-Kumar&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak"
+    width="48%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiral-Kumar&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9"
-    alt="Hiral Kumar's most used programming languages"
-    width="42%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiral-Kumar&layout=compact&hide_border=true&theme=tokyonight"
+    alt="Most used programming languages"
+    width="40%"
   />
 </p>
 
 ---
 
-<h2>📈 Activity Graph</h2>
+<h2 align="center">🔭 CURRENT ORBIT</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Hiral-Kumar&bg_color=0D1117&color=C9D1D9&line=00E5FF&point=FFB86C&area=true&hide_border=true"
-    alt="Hiral Kumar's GitHub activity graph"
-    width="98%"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1400&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+ML+foundations;Exploring+AWS+AI%2FML;Practicing+DSA+in+Java;Turning+ideas+into+working+systems"
+    alt="Current learning focus"
+  />
+</p>
+
+<p align="center">
+  <b>Mission:</b> Become the kind of engineer who understands the system behind the solution.
+</p>
+
+---
+
+<h2 align="center">📡 ACTIVITY SIGNAL</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Hiral-Kumar&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub activity graph"
+    width="96%"
   />
 </p>
 
 ---
 
-<h2>🛸 Current Transmission</h2>
-
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=00E5FF&center=true&vCenter=true&width=750&lines=Training+models+with+discipline;Turning+data+into+intelligent+systems;Building+cloud-ready+ML+workflows;Learning+like+an+engineer;The+mission+continues..."
-    alt="Current transmission"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:111827,100:00E5FF&height=100&section=footer" />
 </p>
