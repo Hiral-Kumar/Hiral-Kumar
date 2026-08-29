@@ -59,23 +59,29 @@ and think about the cosmos a little too often.
 ---
 ---
 
+---
+
 <h2 align="center">🌐 CONNECT</h2>
 
 <p align="center">
-  <a href="https://instagram.com/hiral.kumar7" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://instagram.com/hiral.kumar7">
+    <img src="https://cdn.simpleicons.org/instagram/E1306C" width="34" height="34" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/hiral-kumar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hiral-kumar/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="34" height="34" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/KumarHiral" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/KumarHiral">
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="34" height="34" alt="X" />
   </a>
-  <a href="https://www.youtube.com/channel/UCJ95OTh6Y12ReRpXGrqdDBQ" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/channel/UCJ95OTh6Y12ReRpXGrqdDBQ">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="38" height="34" alt="YouTube" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:hiral.kumar2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="34" height="34" alt="Email" />
   </a>
 </p>
 ---
@@ -159,6 +165,25 @@ and think about the cosmos a little too often.
   Shipping intelligently.
 </p>
 
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:111827,100:00E5FF&height=110&section=footer" alt="Cinematic footer" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,45:111827,100:32145F&height=8&section=footer"
+    alt=""
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1800&color=8BE9FD&center=true&vCenter=true&width=720&lines=SIGNAL+LOCKED;ORBIT+STABLE;MODEL+TRAINING+IN+PROGRESS;KEEP+LOOKING+UP"
+    alt="Signal status"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:32145F,35:111827,70:050816,100:000000&height=120&section=footer"
+    alt="Deep-space footer"
+  />
 </p>
