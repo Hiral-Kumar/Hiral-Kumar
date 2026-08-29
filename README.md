@@ -72,7 +72,7 @@ and think about the cosmos a little too often.
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/hiral-kumar/">
     <img
-  src="https://cdn.simpleicons.org/linkedin/0A66C2"
+  src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"
   width="34"
   height="34"
   alt="LinkedIn"
