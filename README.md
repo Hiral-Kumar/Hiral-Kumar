@@ -57,11 +57,6 @@ and think about the cosmos a little too often.
 </p>
 
 ---
----
-
----
-
----
 
 <h2 align="center">🌐 CONNECT</h2>
 
@@ -104,8 +99,6 @@ and think about the cosmos a little too often.
 <p align="center">
   <i>Learning deeply. Building intelligently. Shipping consistently.</i>
 </p>
-
----
 
 ---
 
