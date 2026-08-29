@@ -43,6 +43,20 @@ and think about the cosmos a little too often.
 
 ---
 
+<h2 align="center">🧰 TECH STACK</h2>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,java,c,html,css,js,ts,tensorflow,git,github,vscode,aws&perline=6"
+    alt="Python, Java, C, HTML, CSS, JavaScript, TypeScript, TensorFlow, Git, GitHub, VS Code, and AWS"
+  />
+</p>
+
+<p align="center">
+  <sub>Tools are instruments. Engineering judgment is the real stack.</sub>
+</p>
+---
+
 <h2>📡 Establish Connection</h2>
 
 <p align="center">
