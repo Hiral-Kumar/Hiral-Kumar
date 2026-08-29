@@ -61,6 +61,8 @@ and think about the cosmos a little too often.
 
 ---
 
+---
+
 <h2 align="center">🌐 CONNECT</h2>
 
 <p align="center">
@@ -69,7 +71,7 @@ and think about the cosmos a little too often.
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/hiral-kumar/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="34" height="34" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/linkedin.svg" width="34" height="34" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/KumarHiral">
