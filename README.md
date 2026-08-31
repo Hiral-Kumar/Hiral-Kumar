@@ -86,6 +86,7 @@ and think about the cosmos a little too often.
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="34" height="34" alt="Email" />
   </a>
 </p>
+
 ---
 
 <h2 align="center">⚙️ SYSTEM STATUS</h2>
